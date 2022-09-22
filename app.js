@@ -41,7 +41,7 @@ if(questionInput.value !== ""){
         eightBall = 'sonic';
         break;
     case 7:
-        eightBall = 'Signs point to yes';
+        eightBall = 'sigue intentando';
         break;
     }
     return eightBall;
